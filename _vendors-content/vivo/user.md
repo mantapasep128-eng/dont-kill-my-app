@@ -1,3 +1,4 @@
+vivo y22                                                  
 ---
 manufacturer: 
     - vivo
